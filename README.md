@@ -1,2 +1,2 @@
 # TNAUProt
-Apenas uma cena feita do jogo feito para a mostra cultural
+## feito por Gabriel Lima Villarinho e Giovanna Cristina de Santana
