@@ -4,7 +4,3 @@
 ## Link para o projeto
 <p></p>
 
-
-# Jogo funcionando 
-
-![Vídeo do jogo]
